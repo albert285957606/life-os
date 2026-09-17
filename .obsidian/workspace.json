@@ -1,0 +1,428 @@
+{
+  "main": {
+    "id": "382b6fbc5804a0de",
+    "type": "split",
+    "children": [
+      {
+        "id": "968b8bdc57bb6d37",
+        "type": "tabs",
+        "dimension": 43.088071348940915,
+        "children": [
+          {
+            "id": "a601549afbea9138",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07-Study/prompt2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "prompt2"
+            }
+          },
+          {
+            "id": "30b32024d87d95ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07-Study/9.6/principles_of_economics_scope_vocabulary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "principles_of_economics_scope_vocabulary"
+            }
+          },
+          {
+            "id": "5fca282890a5e753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07-Study/prompt1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "prompt1"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "3640bc05cb01d08c",
+        "type": "tabs",
+        "dimension": 56.911928651059085,
+        "children": [
+          {
+            "id": "584a4a67b9ea4282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07-Study/9.6/gpt解析结果.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gpt解析结果"
+            }
+          },
+          {
+            "id": "08ed8088eb5fbd5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07-Study/9.6/经济原理翻译.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "经济原理翻译"
+            }
+          },
+          {
+            "id": "bddeeaec532fcda8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07-Study/8.23/1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1"
+            }
+          },
+          {
+            "id": "ba0bf03c32620ed0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07-Study/二次翻译.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "二次翻译"
+            }
+          },
+          {
+            "id": "04a38b041330d38f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07-Study/9.7/复习情况1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "复习情况1"
+            }
+          },
+          {
+            "id": "5db4a2c94cf8731e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07-Study/9.7/经济原理翻译.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "经济原理翻译"
+            }
+          },
+          {
+            "id": "98da20974024444f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07-Study/9.7/gpt分析结果.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gpt分析结果"
+            }
+          },
+          {
+            "id": "e57acaf48a638f32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07-Study/9.8/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b193763f1c6cc71",
+    "type": "split",
+    "children": [
+      {
+        "id": "322302a23371951c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "802d260c923d4328",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "244cbb40c63f42c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "20ec20c2da5e4729",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "104ab45bd393ed70",
+            "type": "leaf",
+            "state": {
+              "type": "periodic-para",
+              "state": {},
+              "icon": "file-plus",
+              "title": "LifeOS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5
+  },
+  "right": {
+    "id": "9e348204e424c517",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fee1caf69ece365",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cfb9e730bf192ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-Daily/深度研究/未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "0da770941bdc97e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/Project Template.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Project Template.md 的出链列表"
+            }
+          },
+          {
+            "id": "30f97ccdbeb648ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ecfb54d61d3a6333",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "6513dd0a3a9a5a68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Project Template.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Project Template.md 的大纲"
+            }
+          },
+          {
+            "id": "1ba599e43af7c3ae",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "61983a133c31ce2f",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "3f1c78996d0bf85e",
+            "type": "leaf",
+            "state": {
+              "type": "codex-panel-view",
+              "state": {
+                "version": 1,
+                "threadId": "019f9cc1-14a8-78b3-9df9-77631b773bc4",
+                "threadTitle": "确认 Obsidian CLI 能力"
+              },
+              "icon": "bot-message-square",
+              "title": "Codex: 确认 Obsidian CLI 能力"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 491.1666259765625,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "realclaudian:Open Claudian": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "daily-notes-editor:Open Daily Note Editor": false,
+      "codex-panel:Open panel": false,
+      "periodic-para:LifeOS 创建": false
+    }
+  },
+  "active": "30b32024d87d95ca",
+  "lastOpenFiles": [
+    "README.md",
+    "07-Study/9.7/gpt分析结果.md",
+    "07-Study/9.6/principles_of_economics_scope_vocabulary.md",
+    "07-Study/9.8/未命名.md",
+    "07-Study/9.8",
+    "2026-09-08.md",
+    "07-Study/9.7/经济原理翻译.md",
+    "07-Study/9.7/复习情况1.md",
+    "07-Study/二次翻译.md",
+    "07-Study/9.6/gpt解析结果.md",
+    "07-Study/9.6/经济原理翻译.md",
+    "07-Study/9.7",
+    "07-Study/9.6/资本主义2翻译.md",
+    "07-Study/prompt2.md",
+    "2026-09-07.md",
+    "07-Study/9.2/未命名.md",
+    "07-Study/9.2/未命名 1.md",
+    "07-Study/9.6/principles_of_economics_scope_vocabulary.md.crdownload",
+    "07-Study/未命名.md",
+    "07-Study/9.6",
+    "07-Study/分析日志/原文.md",
+    "2026-09-06.md",
+    "2026-09-05.md",
+    "2026-09-04.md",
+    "2026-09-03.md",
+    "07-Study/分析日志/主观翻译.md",
+    "07-Study/8.23/1.md",
+    "07-Study/9.2/1-5曼昆经济学.md",
+    "07-Study/9.2",
+    "07-Study/8.27/原文对照解释.md",
+    "07-Study/语法积累/不规则形式/未命名.md",
+    "07-Study/分析日志",
+    "07-Study/语法积累/不规则形式",
+    "07-Study/语法积累/as",
+    "07-Study/语法积累/to理解",
+    "07-Study/语法积累",
+    "Pasted image 20260819144103.png",
+    "未命名 1.canvas",
+    "未命名.canvas"
+  ]
+}

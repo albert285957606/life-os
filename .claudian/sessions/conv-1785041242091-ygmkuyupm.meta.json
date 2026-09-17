@@ -1,0 +1,11 @@
+{
+  "id": "conv-1785041242091-ygmkuyupm",
+  "providerId": "claude",
+  "title": "您好",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1785041242093,
+  "updatedAt": 1785041242149,
+  "lastResponseAt": 1785041242149,
+  "sessionId": null,
+  "selectedModel": "haiku"
+}
